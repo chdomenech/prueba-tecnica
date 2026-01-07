@@ -2,6 +2,29 @@
 
 Este proyecto sirve como base para la prueba técnica. Aquí se detallan todos los requisitos y pasos para que cualquier persona pueda configurar el ambiente local desde cero y comenzar con el desarrollo sin contratiempos.
 
+# Prueba Técnica
+
+Este repositorio contiene la prueba técnica realizada por Christian Domenech.
+
+## Imágenes de referencia
+
+### Base de Datos
+![Base de Datos](https://raw.githubusercontent.com/chdomenech/prueba-tecnica/main/docs/bd.png)
+
+### Pantalla de Eclipse
+![Eclipse Screen](https://raw.githubusercontent.com/chdomenech/prueba-tecnica/main/docs/eclipse-screen.png)
+
+### Tarea 1
+![Tarea 1](https://raw.githubusercontent.com/chdomenech/prueba-tecnica/main/docs/tarea1.png)
+
+### Tareas
+![Tareas](https://raw.githubusercontent.com/chdomenech/prueba-tecnica/main/docs/tareas.png)
+
+### DataSource
+![DataSource](https://raw.githubusercontent.com/chdomenech/prueba-tecnica/main/docs/datasource.png)
+
+
+
 ---
 
 ## ✅ Requisitos del Sistema
