@@ -6,13 +6,13 @@ Este proyecto sirve como base para la prueba técnica. Aquí se detallan todos l
 
 Este repositorio contiene la prueba técnica realizada por Christian Domenech.
 
-## Imágenes de referencia
-
-### Base de Datos
-![Base de Datos](https://raw.githubusercontent.com/chdomenech/prueba-tecnica/main/docs/bd.png)
+## Imágenes de verificaciones
 
 ### Pantalla de Eclipse
 ![Eclipse Screen](https://raw.githubusercontent.com/chdomenech/prueba-tecnica/main/docs/eclipse-screen.png)
+
+### DataSource
+![DataSource](https://raw.githubusercontent.com/chdomenech/prueba-tecnica/main/docs/datasource.png)
 
 ### Tarea 1
 ![Tarea 1](https://raw.githubusercontent.com/chdomenech/prueba-tecnica/main/docs/tarea1.png)
@@ -20,8 +20,8 @@ Este repositorio contiene la prueba técnica realizada por Christian Domenech.
 ### Tareas
 ![Tareas](https://raw.githubusercontent.com/chdomenech/prueba-tecnica/main/docs/tareas.png)
 
-### DataSource
-![DataSource](https://raw.githubusercontent.com/chdomenech/prueba-tecnica/main/docs/datasource.png)
+### Base de Datos
+![Base de Datos](https://raw.githubusercontent.com/chdomenech/prueba-tecnica/main/docs/bd.png)
 
 
 
