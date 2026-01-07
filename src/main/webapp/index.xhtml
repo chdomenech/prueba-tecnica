@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui">
+
+<h:head>
+    <title>Prueba Técnica - Sistema de Gestión de Tareas</title>
+</h:head>
+
+<h:body>
+    <h:form>
+        <p:panel header="Bienvenido al Sistema de Gestión de Tareas">
+            <p:outputLabel value="¡PrimeFaces está funcionando correctamente!" />
+            <br/>
+            <h:outputText value="#{databaseStatusBean.statusMessage}" style="font-weight:bold; color: #00796B;"/>
+            <br/><br/>
+            <p:commandButton value="Ir a Gestión de Tareas" 
+                           icon="pi pi-list"
+                           outcome="tasks"
+                           styleClass="ui-button-success"/>
+        </p:panel>
+    </h:form>
+</h:body>
+
+</html>
